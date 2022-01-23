@@ -230,6 +230,7 @@
 		};
 		466C40F8277F918800E04009 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 466C4107277FA1BF00E04009 /* Release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
